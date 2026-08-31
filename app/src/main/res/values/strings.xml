@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Signify</string>
+    <string name="settings">සැකසුම්</string>
+    <string name="scanning">හඳුනාගනිමින්</string>
+    <string name="recognized_label">හඳුනාගත් සංඥාව</string>
+    <string name="recognized_sentence">—</string>
+    <string name="app_subtitle_two_line">Sri Lankan Sign Language\nRecognition System</string>
+</resources>
